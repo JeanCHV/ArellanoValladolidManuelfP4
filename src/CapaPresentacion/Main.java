@@ -21,7 +21,7 @@ public class Main {
             frmPrincipal.setVisible(true);
         } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(frmPrincipal.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-            System.out.println("UBILLUS KCHUDO");
+            
         }
 
     }
